@@ -14,19 +14,31 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: My Journey as Cloud networking engineer # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Technical Knowledge Based Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Started My technical journey as an electrical engineer in India 
+  and came to Canada to upgrade My technical skills. A strong headed person
+  on the lookout for technical problem solving by utilising the Network, 
+  Telecommunications and Cloud based knowledge.
+  Having faced a lack of support and No guidance from an experienced Senior
+  in a new environment I decided to help all My juniors by becoming a peer 
+  mentor, peer tutor, and a volunteer in My college. 
+  After My graduation I have intended to keep helping new students via My blogs
+  where I will share all the problems be they technical or non-technical I faced
+  during My time at College.
+  With time I intend to make this site more interactive and help everyone with
+  the knowledge I have gained!
+  Let us begin the Journey!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://imrit96.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: imrit96 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,12 +46,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Imrit Singh
+  email: imrit96singh@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/imrit96 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +110,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: https://avatars.githubusercontent.com/u/131723346?s=96&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

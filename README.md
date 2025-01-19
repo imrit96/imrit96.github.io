@@ -4,7 +4,8 @@
   <!-- markdownlint-disable-next-line -->
   # Chirpy Jekyll Theme
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+  Personal Porfolio site with information about the certifications and Projects
+  Will be in the style of a blog and will discuss about the technical challenges faced during My time as a student.
 
   [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
   [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
